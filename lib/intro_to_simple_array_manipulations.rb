@@ -17,5 +17,5 @@ end
 
 def using_delete(instructors, no_offense_steven)
   binding.pry
-  instructors.delete("steven")
+  instructors.delete("Steven")
 end
